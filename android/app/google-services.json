@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1078673828665",
+    "project_id": "trendfeeds-983b5",
+    "storage_bucket": "trendfeeds-983b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078673828665:android:4160086316bb62a5c4d6e8",
+        "android_client_info": {
+          "package_name": "com.example.trendfeeds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078673828665-2jlri6lr1lk8gu38b2v4eq00k75leelt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQY1r10rIMQ6_6sw99Yap10vBtnemkGzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078673828665-2jlri6lr1lk8gu38b2v4eq00k75leelt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
